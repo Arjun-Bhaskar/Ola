@@ -1,0 +1,140 @@
+.list{
+    list-style: none;
+}
+.lkj{
+    background-image: url("https://cms-web.olacabs.com/00000000383.jpg");
+    height: 138vh;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+}
+.anc{
+    text-decoration: none;
+    padding: 2px 7px;
+    color: black;
+}
+.active{
+    background-color: #cddc39;
+    border-radius: 2rem;
+
+}
+.nav1{
+  background-color: black !important;
+}
+/* .card-header{
+  margin-left: 20px;
+} */
+.taxi{
+  background-color: #cddc39;
+}
+.btn-warning{
+  background-color: #cddc39 !important;
+}
+
+.btn-primary{
+  background-color: #cddc39 !important;
+}
+/* .input-group-text,.form-control{
+    /* background-color: #424a54 !important;
+    border-color: #424a54; */
+
+/* } */
+
+/* .input-group,.form-control{
+    background-color: #424a54 !important;
+    border-color: #424a54; */
+    
+/* } */
+.img-holder{
+  background-image: url(https://cms-web.olacabs.com/00000000356.jpg);
+  height: 200px;
+}
+.card-container{
+  /* height: 250px; */
+  width: 376px;
+}
+.img-holder2{
+  background-image: url(https://cms-web.olacabs.com/00000000357.jpg);
+  height: 200px;
+}
+.img-holder3{
+  background-image: url(https://cms-web.olacabs.com/00000000380.jpg);
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.lab{
+    display: inline-block;
+    /* vertical-align: middle; */
+    color: #666666;
+    /* line-height: 18px; */
+    margin-left: 5px;
+    /* padding-top: 7px; */
+}
+.Cabs{
+  height: 2rem !important;
+}
+/* .lab2{
+  display: inline-block;
+  vertical-align: middle;
+  color: #666666;
+  line-height: 18px;
+  margin-left: 5px;
+} */
+.Friendly{
+height: 2rem !important;
+}
+.car{
+  top: -30px;
+  /* right: 25px; */
+  width: 70px;
+  height: 70px;
+  background-color: #cce500;
+  border-radius: 50%;
+  z-index: 4;
+  right: 20px;
+  bottom: -35px;
+}
+.car2{
+  background: #CCE500;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 4;
+    right: 20px;
+    bottom: -35px;
+    /* line-height: 80px; */
+    top: -35px;
+    justify-content: center;
+    vertical-align: initial;
+    
+}
+.card3{
+  font-size: 15px;
+}
+.heading{
+  font-weight: 400;
+  color: #4A4A4A;
+  font-size: 20px;
+}
+.card-text1{
+  font-weight: 300;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+  line-height:24px ;
+  min-height: 150px;
+
+}
+.card-body{
+  padding: none;
+  }
+.travel{
+  margin-top: 60px;
+}
+.para2{
+  color: rgba(0, 0, 0, 0.6);
+  /* font-size: 16px; */
+  /* font-weight: 300; */
+}
